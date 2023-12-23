@@ -10,24 +10,25 @@ _The following guideslines have been implemented_
 * Hilt dependency injection
 * Retrofit - OkHttpClient client interceptor
 * Junit test coverage - Viewmodels
----------------------------------------------------
+
 Module structure is as follows
-  **Data layer**
+
+  Data layer
     - di
     - models
     - repository
     - services
     - utils
 
-  **Domain layer**
+  Domain layer
     - di
     - mapper
     - model
     - repository
     - usecases
-    
-  **Presentation layer**
+
+  Presentation Layer
     - screens
     - viewmodels
----------------------------------------------------
+    
   **Note**: Project is zipped and uploaded.
